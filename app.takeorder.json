@@ -240,7 +240,7 @@
   },
   "orderlist": {
     "tag": [
-      "div;c:container light-mode;id:order_list;",
+      "div;c:container light-mode;id:;ref:container.id",
       "-div;c:app",
       "--div;c:wrapper",
       "---div;c:main-container",
