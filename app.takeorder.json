@@ -819,7 +819,7 @@
       "--------svg;c:close;width:24;height:24;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round",
       "---------circle;cx:12;cy:12;r:10",
       "---------path;d:M15 9l-6 6M9 9l6 6",
-      "-----div;c:orders-detail-view",
+      "-----div;id:;ref:orders.detail.view;c:orders-detail-view",
       "------div;c:orders-detail-item latest",
       "-------div;c:order-number;v:1",
       "-------div;c:order-time",
