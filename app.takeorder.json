@@ -643,7 +643,7 @@
       "div;c:container;id:container_loading",
       "-div;c:take-loading",
       "--div;c:loading-wrap;event:click|goMenu",
-      "---img;src:./images/novus-logo-blue.svg;c:loading-logo-img",
+      "---img;src:/assets/images/novus-logo-blue.svg;c:loading-logo-img",
       "---div;c:loading-logo;v:테이크오더",
       "---div;c:lds-ellipsis",
       "----div",
