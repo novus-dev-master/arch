@@ -290,7 +290,7 @@
       "------div;c:table-value;id:menu_table_name;v:15",
       "---div;c:left-tabs",
       "----div;c:header-menu;id:header_menu",
-      "-----a;c:main-header-link is-active",
+      "-----a;c:main-header-link",
       "------span;c:link-text;v:중식",
       "-----a;c:main-header-link",
       "------span;c:link-text;v:한식",
