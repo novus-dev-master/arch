@@ -244,7 +244,7 @@
       "------div;c:order-list-close",
       "-------div;c:time-close;id:;ref:order.list.time.close",
       "--------div;c:time-second",
-      "---------div;c:second-value;id:;v:60;ref:order.list.count",
+      "---------div;c:second-value;id:;v:60;ref:order.list.time.tick",
       "---------div;c:second-label;v:초",
       "--------div;c:home-text;v:후 닫힘",
       "-------div;event:;ref:order.list.modal.close;c:close-svg-btn",
